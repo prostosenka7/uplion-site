@@ -4,7 +4,7 @@
 > **Be early. Be strong. Be a lion. Join the roar 🦁**  
 > The official meme token of Solana — built for community, speed and fun.
 
-![UpLion Logo](uplion_meme_square_512.png)
+![UpLion Logo](uplion_meme_square_512 (1).png)
 
 ---
 
