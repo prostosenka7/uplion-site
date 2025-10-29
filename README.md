@@ -38,7 +38,7 @@ Created for **fun, virality, and unstoppable community growth**.
 
 1. Install or open **Phantom** wallet on Solana  
 2. Get some **SOL** and send to Phantom  
-3. Open [Raydium Swap](https://raydium.io/swap/) or [Jupiter](https://jup.ag/)  
+3. Open [Pump.fun](https://pump.fun/coin/) or [Jupiter](https://jup.ag/)  
 4. Paste the token address above and swap for **$UPLION**
 
 ---
