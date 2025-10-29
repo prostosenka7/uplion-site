@@ -19,7 +19,7 @@ Created for **fun, virality, and unstoppable community growth**.
 - 🌐 **Website:** [UpLion Site](https://prostosenka7.github.io/uplion-site/)  
 - 🧠 **Token Address:**  
   ```
-  3JBk3fAwgJuCvZ5Enpyzbn7NXn7M2msdw2WSisnWPwmp
+  3JBk3fAwgJuCvZ5Enpyzbn7NXn7M2msdw2WSiSnWpump
   ```
 
 ---
