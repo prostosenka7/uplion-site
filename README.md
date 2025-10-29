@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/23200579/README.1.md)
+[README.md](https://github.com/user-attachments/files/23200579/README.md)
 # 🦁 UpLion — The Lion of Solana
 
 > **Be early. Be strong. Be a lion. Join the roar 🦁**  
